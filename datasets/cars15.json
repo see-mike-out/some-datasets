@@ -1,0 +1,167 @@
+[
+  {
+    "Name": "vw dasher (diesel)",
+    "Miles_per_Gallon": 43.4,
+    "Cylinders": 4,
+    "Displacement": 90,
+    "Horsepower": 48,
+    "Weight_in_lbs": 2335,
+    "Acceleration": 23.7,
+    "Year": "1980-01-01",
+    "Origin": "Europe"
+  },
+  {
+    "Name": "honda civic 1500 gl",
+    "Miles_per_Gallon": 44.6,
+    "Cylinders": 4,
+    "Displacement": 91,
+    "Horsepower": 67,
+    "Weight_in_lbs": 1850,
+    "Acceleration": 13.8,
+    "Year": "1980-01-01",
+    "Origin": "Japan"
+  },
+  {
+    "Name": "toyota corona mark ii",
+    "Miles_per_Gallon": 24,
+    "Cylinders": 4,
+    "Displacement": 113,
+    "Horsepower": 95,
+    "Weight_in_lbs": 2372,
+    "Acceleration": 15,
+    "Year": "1970-01-01",
+    "Origin": "Japan"
+  },
+  {
+    "Name": "dodge aries se",
+    "Miles_per_Gallon": 29,
+    "Cylinders": 4,
+    "Displacement": 135,
+    "Horsepower": 84,
+    "Weight_in_lbs": 2525,
+    "Acceleration": 16,
+    "Year": "1982-01-01",
+    "Origin": "USA"
+  },
+  {
+    "Name": "volkswagen 411 (sw)",
+    "Miles_per_Gallon": 22,
+    "Cylinders": 4,
+    "Displacement": 121,
+    "Horsepower": 76,
+    "Weight_in_lbs": 2511,
+    "Acceleration": 18,
+    "Year": "1972-01-01",
+    "Origin": "Europe"
+  },
+  {
+    "Name": "chevroelt chevelle malibu",
+    "Miles_per_Gallon": 16,
+    "Cylinders": 6,
+    "Displacement": 250,
+    "Horsepower": 105,
+    "Weight_in_lbs": 3897,
+    "Acceleration": 18.5,
+    "Year": "1975-01-01",
+    "Origin": "USA"
+  },
+  {
+    "Name": "toyota mark ii",
+    "Miles_per_Gallon": 19,
+    "Cylinders": 6,
+    "Displacement": 156,
+    "Horsepower": 108,
+    "Weight_in_lbs": 2930,
+    "Acceleration": 15.5,
+    "Year": "1976-01-01",
+    "Origin": "Japan"
+  },
+  {
+    "Name": "ford gran torino (sw)",
+    "Miles_per_Gallon": 13,
+    "Cylinders": 8,
+    "Displacement": 302,
+    "Horsepower": 140,
+    "Weight_in_lbs": 4294,
+    "Acceleration": 16,
+    "Year": "1972-01-01",
+    "Origin": "USA"
+  },
+  {
+    "Name": "pontiac catalina",
+    "Miles_per_Gallon": 16,
+    "Cylinders": 8,
+    "Displacement": 400,
+    "Horsepower": 170,
+    "Weight_in_lbs": 4668,
+    "Acceleration": 11.5,
+    "Year": "1975-01-01",
+    "Origin": "USA"
+  },
+  {
+    "Name": "hi 1200d",
+    "Miles_per_Gallon": 9,
+    "Cylinders": 8,
+    "Displacement": 304,
+    "Horsepower": 193,
+    "Weight_in_lbs": 4732,
+    "Acceleration": 18.5,
+    "Year": "1970-01-01",
+    "Origin": "USA"
+  },
+  {
+    "Name": "mercury marquis",
+    "Miles_per_Gallon": 11,
+    "Cylinders": 8,
+    "Displacement": 429,
+    "Horsepower": 208,
+    "Weight_in_lbs": 4633,
+    "Acceleration": 11,
+    "Year": "1972-01-01",
+    "Origin": "USA"
+  },
+  {
+    "Name": "ford fairmont futura",
+    "Miles_per_Gallon": 24,
+    "Cylinders": 4,
+    "Displacement": 140,
+    "Horsepower": 92,
+    "Weight_in_lbs": 2865,
+    "Acceleration": 16.4,
+    "Year": "1982-01-01",
+    "Origin": "USA"
+  },
+  {
+    "Name": "ford fairmont 4",
+    "Miles_per_Gallon": 22.3,
+    "Cylinders": 4,
+    "Displacement": 140,
+    "Horsepower": 88,
+    "Weight_in_lbs": 2890,
+    "Acceleration": 17.3,
+    "Year": "1979-01-01",
+    "Origin": "USA"
+  },
+  {
+    "Name": "buick electra 225 custom",
+    "Miles_per_Gallon": 12,
+    "Cylinders": 8,
+    "Displacement": 455,
+    "Horsepower": 225,
+    "Weight_in_lbs": 4951,
+    "Acceleration": 11,
+    "Year": "1973-01-01",
+    "Origin": "USA"
+  },
+  {
+    "Name": "nissan stanza xe",
+    "Miles_per_Gallon": 36,
+    "Cylinders": 4,
+    "Displacement": 120,
+    "Horsepower": 88,
+    "Weight_in_lbs": 2160,
+    "Acceleration": 14.5,
+    "Year": "1982-01-01",
+    "Origin": "Japan"
+  }
+]
