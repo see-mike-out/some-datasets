@@ -13,6 +13,7 @@ I claim no copyrights, please refer to the original sources for future use.
 ## Some that I transformed
 
 - `stocks-single.csv`: `stocks.csv` filtered for MSFT.
+- `chung.csv`: Data for Chung et al. (2016) paper (link: <https://doi.org/10.1111/cgf.12889>)
 
 ## Some that I synthesized
 
